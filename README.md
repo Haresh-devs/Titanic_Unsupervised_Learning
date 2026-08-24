@@ -54,6 +54,7 @@ PCA
         ↓
 Cluster Visualization
 
+
 ## Data Preprocessing
 
 The cleaned and feature-engineered Titanic dataset generated in Task 2 is used as the input.
