@@ -202,7 +202,6 @@ Task_4/
 ├── titanic_cleaned.csv
 ├── task4_titanic_clustering.py
 ├── titanic_clustered.csv
-├── Task_4_Titanic_Unsupervised_Learning_Report.pdf
 └── README.md
 ```
 
